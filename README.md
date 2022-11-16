@@ -9,6 +9,15 @@
 - 👯 I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me: elias.polanco.e@gmail.com, Linkedin: [Elias Natanael Polanco Euan](linkedin.com/in/elias-polanco-euan)
 
+<details>
+  <summary> Click for more information</summary>
+  Work experience:
+  
+  - Professor of Linear Algebra and Statistics at Universidad Politécnica de Yucatán
+  
+  - Professor of Mathematics and Physics at UADY
+<details>
+
 ![ICN](https://pbs.twimg.com/media/Fhqm1kUXgAEbXK9?format=jpg&name=small)
 
 <!--
