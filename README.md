@@ -16,7 +16,7 @@
   - Professor of Linear Algebra and Statistics at Universidad Politécnica de Yucatán
   
   - Professor of Mathematics and Physics at UADY
-<details>
+</details>
 
 ![ICN](https://pbs.twimg.com/media/Fhqm1kUXgAEbXK9?format=jpg&name=small)
 
