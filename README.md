@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a research project to study a nuclear phase diagram using an effective model of Quantum Chromodynamics by means of Monte Carlo simulations
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Data Analysis projects
-- 📫 How to reach me: elias.polanco.e@gmail.com, Linkedin: [website] linkedin.com/in/elias-polanco-euan Linkedin
+- 📫 How to reach me: elias.polanco.e@gmail.com, Linkedin: [website] (linkedin.com/in/elias-polanco-euan)
 
 
 <!--
